@@ -1,10 +1,5 @@
 
 
-<head>
-  <meta charset="utf-8">
-  <title>kandesfirstweb
-  </title>
-</head>
 
 <body>
   <table cellspacing=30>
